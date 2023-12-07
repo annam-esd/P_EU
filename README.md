@@ -99,38 +99,6 @@ and identified which agricultural management practice scenario resulted
 in the lowest erosion, the lowest P balance, and the highest P export
 (lines 907-937). This analysis resulted in Figure 7, and Table S6.
 
-#3\_P\_EU.qgz
-
-The QGIS project includes the raster files showing current P flows, the
-target areas, and the agricultural management practice scenario that
-resulted in the lowest P balance, the lowest P erosion, and the highest
-P export:
-
-a.  Figure 2. Average yearly P inputs to agricultural soils from
-    manure (a) and from mineral fertilizers application (b) in the
-    decade 2010--2019.
-b.  Figure 3. Average P export of EU and UK agricultural soils by crop
-    harvest (a) and net P erosion (kg P ha−1 year−1) (b) in the period
-    2010--2019.
-c.  Figure. 4. Average P balance for the period 2010--2019 (a), average
-    P balances from running the model with a high maximum sorption
-    capacity (1.5-times) and maximal sorption affinity.
-d.  Figure 5. Average P~Total~ (a) and P~Available~ pools (based on the
-    Olsen method) (b) in the agricultural topsoil (0--30 cm) of the EU
-    and UK for the period 2010--2019.
-e.  Figure 7. Agricultural management practice scenario that resulted in
-    the lowest P balance (a), the lowest P erosion (b), and the highest
-    P export (c) for the target area defined by PAvailable \> 22 mg P
-    kg−1 at the periods 2020--2029 and 2040--2049.
-f.  Figure S2. Ratio of P~Available~ / P~Total~ in the agricultural
-    topsoil (0-30 cm) of the EU and UK.
-g.  Figure S11. Target area of P~Available~ \> 22 mg P kg-1, which is
-    expected to supply sufficient P to the crops.
-h.  Figure S12. Target area of P~Available~ \> 40 mg P kg-1, which is at
-    higher risk of P leaching.
-i.  Figure S. Target area defined by regions with high P erosion (\> 1 g
-    P kg-1).
-
 **References**
 
 Steinfurth, K., Hirte, J., Morel, C., Buczko, U., 2021. Conversion
