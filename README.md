@@ -48,7 +48,7 @@ The folder includes the following scripts:
 
 **3\_P\_EU.qgz**
 
-#1\_current.R
+# 1\_current.R
 
 This script allows to calculate the average annual P flows used to
 determine the P budget for the period 2010--2019. In detail the script
@@ -72,7 +72,7 @@ These average values were used in the manuscript text, and the
 individual raster files of the individual flows incorporated in Figures
 2, 3, 4, 5, S10, and Table S3.
 
-#2\_projection.R
+# 2\_projection.R
 
 This script enables the assessment of projected phosphorus (P) flows
 depending on the agricultural management practice scenarios. The raster
